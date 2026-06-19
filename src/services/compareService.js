@@ -1,8 +1,6 @@
 import axios from "axios";
-
 const API =
-  "http://localhost:8080/api/ai";
-
+  `${import.meta.env.VITE_API_URL}/api/ai`;
 export const compareProducts =
   async (product1, product2) => {
 

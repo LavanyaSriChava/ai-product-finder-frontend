@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API =
-  "http://localhost:8080/api/search-history";
+  `${import.meta.env.VITE_API_URL}/api/search-history`;
 
 const getAuthHeader = () => ({
   headers: {
