@@ -1,16 +1,126 @@
-# React + Vite
+# 🚀 AI Product Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered product discovery platform that helps users find, compare and save products using natural language queries.
 
-Currently, two official plugins are available:
+🌐 Live Demo: https://ai-product-finder-frontend-mzy8h6v0e-lavs.vercel.app
+⚙️ Backend Repository: https://github.com/your-username/ai-product-finder-Backend
+- 💻 Frontend Repository: https://github.com/your-username/ai-product-finder-frontend
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔍 Public AI Search
+- Search products without creating an account
+- Natural language queries powered by AI
 
-## Expanding the ESLint configuration
+⚖️ Product Comparison
+- Compare two products side by side
+- AI-generated pros and cons
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+❤️ Wishlist
+- Save favorite products
+- Persistent user-specific wishlist
+
+📜 Search History
+- Automatically stores searches for logged-in users
+- View and manage previous searches
+
+📊 Analytics Dashboard
+- Admin-only dashboard
+- User and search insights
+
+🔐 Authentication & Authorization
+- JWT Authentication
+- Role-Based Access Control
+- Protected routes
+
+📱 Responsive Design
+- Mobile-first UI
+- Tailwind CSS powered design
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- Vite
+- Tailwind CSS
+- Axios
+- React Router
+
+### Backend
+- Spring Boot
+- Spring Security
+- JWT
+- PostgreSQL
+
+### AI Integration
+- OpenRouter API
+- LLM-based recommendation engine
+
+### Deployment
+- Vercel
+- Railway
+
+---
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+### AI Recommendation
+
+![Recommendation](screenshots/recommendation.png)
+
+### Search History
+
+![History](screenshots/history.png)
+
+### Wishlist
+
+![Wishlist](screenshots/wishlist.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## 🎯 User Roles
+
+### Guest User
+- Search Products
+
+### Registered User
+- Search Products
+- Save Wishlist
+- View Search History
+
+### Admin
+- Access Dashboard
+- View Platform Analytics
+
+---
+
+## 🏗 Project Architecture
+
+Frontend (React)
+      ↓
+Backend (Spring Boot)
+      ↓
+PostgreSQL
+      ↓
+OpenRouter AI
+
+---
+
+## 👨‍💻 Author
+
+Lavanya Sri Chava
+
+GitHub: https://github.com/lavanyasrichava
+LinkedIn: https://linkedin.com/in/lavanya-sri-chava-6b57a02a9
