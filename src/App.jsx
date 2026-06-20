@@ -12,6 +12,7 @@ import History from "./pages/History/History";
 import Dashboard from "./pages/Dashboard/Dashboard";
 import AdminRoute from "./components/AdminRoute";
 import NotFound from "./pages/NotFound/NotFound";
+import ProtectedRoute from "./components/ProtectedRoute";
 function App() {
   return (
     <BrowserRouter>
@@ -34,11 +35,20 @@ function App() {
         />
         <Route
   path="/history"
-  element={<History />}
+  element={
+    <ProtectedRoute>
+      <History />
+    </ProtectedRoute>
+  }
 />
+
 <Route
   path="/wishlist"
-  element={<Wishlist />}
+  element={
+    <ProtectedRoute>
+      <Wishlist />
+    </ProtectedRoute>
+  }
 />
 <Route
   path="*"

@@ -582,6 +582,24 @@ py-4
     </button>
 
   </div>
+  <p
+  className="
+    mt-4
+    text-center
+    text-sm
+    text-slate-400
+    max-w-2xl
+    mx-auto
+  "
+>
+  🔓 Search instantly without login.
+
+  <br />
+
+  Create an account to save searches,
+  build wishlists, access search history,
+  and unlock personalized features.
+</p>
 
 </div>
 
@@ -1137,19 +1155,19 @@ compareLoading ? (
           <FeatureCard
             icon={<Heart />}
             title="Wishlist"
-            description="Save products and revisit later."
+            description="Save products and revisit later.Login Required"
           />
 
           <FeatureCard
             icon={<History />}
             title="Search History"
-            description="Track everything you searched."
+            description="Track everything you searched.Login Required"
           />
 
           <FeatureCard
             icon={<BarChart3 />}
             title="Analytics"
-            description="Monitor searches and platform activity."
+            description="Monitor searches and platform activity.Admin only"
           />
 
           <FeatureCard
