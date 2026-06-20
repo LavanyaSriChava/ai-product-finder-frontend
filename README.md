@@ -3,8 +3,8 @@
 An AI-powered product discovery platform that helps users find, compare and save products using natural language queries.
 
 🌐 Live Demo: https://ai-product-finder-frontend-mzy8h6v0e-lavs.vercel.app
-⚙️ Backend Repository: https://github.com/your-username/ai-product-finder-Backend
-- 💻 Frontend Repository: https://github.com/your-username/ai-product-finder-frontend
+⚙️ Backend Repository: https://github.com/LavanyaSriChava/ai-product-finder-Backend
+- 💻 Frontend Repository: https://github.com/LavanyaSriChava/ai-product-finder-frontend
 
 ---
 
