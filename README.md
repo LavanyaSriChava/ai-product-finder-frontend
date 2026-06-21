@@ -2,7 +2,7 @@
 
 An AI-powered product discovery platform that helps users find, compare and save products using natural language queries.
 
-🌐 Live Demo: https://ai-product-finder-frontend-mzy8h6v0e-lavs.vercel.app
+🌐 Live Demo: https://ai-product-finder-frontend.vercel.app/wishlist
 
 ⚙️ Backend Repository: https://github.com/LavanyaSriChava/ai-product-finder-Backend
 - 💻 Frontend Repository: https://github.com/LavanyaSriChava/ai-product-finder-frontend
@@ -70,24 +70,26 @@ An AI-powered product discovery platform that helps users find, compare and save
 ## 📸 Screenshots
 
 ### Home Page
+<img width="1848" height="953" alt="image" src="https://github.com/user-attachments/assets/b3b8bd82-5e46-407a-a055-4345e4c97ff7" />
 
-![Home](screenshots/home.png)
 
 ### AI Recommendation
 
-![Recommendation](screenshots/recommendation.png)
+
+<img width="1863" height="929" alt="image" src="https://github.com/user-attachments/assets/3469fc02-34cc-4903-bb45-b8a9aa18b8f1" />
+
 
 ### Search History
-
-![History](screenshots/history.png)
+<img width="1889" height="748" alt="image" src="https://github.com/user-attachments/assets/5474f862-af11-4215-82e4-ca30d7c9b4a1" />
 
 ### Wishlist
 
-![Wishlist](screenshots/wishlist.png)
+<img width="1858" height="894" alt="image" src="https://github.com/user-attachments/assets/40fa1fcb-bae2-4da4-8241-4197f28ca7ea" />
 
-### Dashboard
+Others
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1865" height="863" alt="image" src="https://github.com/user-attachments/assets/24b98802-27f6-4630-aca1-d2fc1d3cce0d" />
+
 
 ---
 
