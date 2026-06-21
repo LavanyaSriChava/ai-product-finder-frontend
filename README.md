@@ -77,6 +77,7 @@ An AI-powered product discovery platform that helps users find, compare and save
 
 
 <img width="1863" height="929" alt="image" src="https://github.com/user-attachments/assets/3469fc02-34cc-4903-bb45-b8a9aa18b8f1" />
+<img width="1865" height="870" alt="image" src="https://github.com/user-attachments/assets/76db83c0-d08e-4138-973c-09f836b6da15" />
 
 
 ### Search History
